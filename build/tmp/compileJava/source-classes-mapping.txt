@@ -1,0 +1,9 @@
+com/kisan/proto/Stock.java
+ com.kisan.proto.Stock
+ com.kisan.proto.Stock$1
+ com.kisan.proto.Stock$StockMessage
+ com.kisan.proto.Stock$StockMessage$1
+ com.kisan.proto.Stock$StockMessage$Builder
+ com.kisan.proto.Stock$StockMessageOrBuilder
+com/kisan/proto/Simple.java
+ com.kisan.proto.Simple

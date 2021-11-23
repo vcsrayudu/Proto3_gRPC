@@ -1,0 +1,8 @@
+syntax="proto3";
+message Stock
+{
+ float avgPrice=1;
+ int32 quantity=2;
+ string sectorName=3;
+				
+				}
